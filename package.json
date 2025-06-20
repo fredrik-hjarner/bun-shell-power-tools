@@ -1,0 +1,10 @@
+{
+  "name": "bun-shell-power-tools",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
